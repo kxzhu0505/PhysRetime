@@ -71,6 +71,17 @@
         <mxCell id="3CEIhv9XdMjk0Ig4rswB-24" value="Physical-aware retiming" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="585" width="93.75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3CEIhv9XdMjk0Ig4rswB-29" value="" style="curved=1;endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="638" as="sourcePoint" />
+            <mxPoint x="120" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="663" />
+              <mxPoint x="130" y="683" />
+              <mxPoint x="100" y="663" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
