@@ -132,8 +132,14 @@
         <mxCell id="gqStxiazf_5-via12ryT-65" value="" style="triangle;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#f9fafb, #1d293b);strokeColor=#000000;fontFamily=Times New Roman;container=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="399" y="129" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gqStxiazf_5-via12ryT-72" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;&quot;&gt;Backward Retiming&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gqStxiazf_5-via12ryT-72" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i&gt;Backward Retiming&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="181" y="221" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqStxiazf_5-via12ryT-73" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Helvetica&quot;&gt;Original Circuit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="12" y="299" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqStxiazf_5-via12ryT-74" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Helvetica&quot;&gt;Retimed Circuit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357" y="299" width="183" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
